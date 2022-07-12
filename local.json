@@ -1,0 +1,13 @@
+{
+  "extensions":{
+    "braze": {
+      "apiUrl": "__API_URL__",
+      "apiKey": "__API_KEY__",
+      "appId": "__APP_ID__",
+      "userId": "__USER_ID__"
+    }
+  },
+  "registeredExtensions": [
+    "braze"
+  ]
+}
